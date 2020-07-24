@@ -86,13 +86,6 @@ function Home() {
             i hope you enjoy your stay! if you have any feedback please reach
             out to me on any social medial platform of your choice!
           </p>
-          <Button
-            variant="contained"
-            color="primary"
-            onclick={alert("clicked")}
-          >
-            Primary
-          </Button>
         </div>
       </div>
     </Layout>
