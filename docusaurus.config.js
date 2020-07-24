@@ -2,10 +2,10 @@ module.exports = {
   title: "Site Name Loading...",
   tagline: "Longhorn. Student. Dreamer.",
   url: "https://phamousq.github.io",
-  baseUrl: "/my-website/",
+  baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "phamousq", // Usually your GitHub org/user name.
-  projectName: "my-website", // Usually your repo name.
+  projectName: "phamousq.github.io", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "Quinton Pham",
